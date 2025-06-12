@@ -1,2 +1,15 @@
-# James-JAVA
-This repository contains my Java learning journey with examples of core concepts, OOP, DSA, file handling, and mini-projects. Each topic is organized with clean, commented code to help beginners understand Java fundamentals through practical examples.
+# Java Learning Journey 🚀
+
+This repository contains my personal Java learning progress. It includes code examples and mini-projects covering:
+
+- ✅ Core Java Concepts
+- 🧱 Object-Oriented Programming (OOP)
+- 📊 Data Structures & Algorithms (DSA)
+- 📁 File Handling
+- ⚠️ Exception Handling
+- 🛠️ Practice Problems & Mini Projects
+
+## 📂 Folder Structure
+
+Each folder is organized by topic or chapter for easy reference.
+
