@@ -1,6 +1,6 @@
 package com.vermatradingcompany.corejava.basic;
 
-public class arr_02 {
+public class array_02 {
     public static void main(String[] args) {
 //        Two Dimensional Array
 //        int arr[][] = new int[3][3];
