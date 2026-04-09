@@ -6,7 +6,9 @@ public class grandfather {
    private int age;
 
    private boolean hasSuperPowers;
-   public grandfather(){
+   public grandfather(int age , String name){
+       this.age=age;
+       this.name=name;
        hasSuperPowers=true;
        System.out.println("grand-father constructor called");
    }
